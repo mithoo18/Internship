@@ -3,51 +3,47 @@
 ### How it looks 
 <table>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/1.jpg" alt="Splash Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png1"/></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/2.jpg" alt="Main Screen" /></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/3.jpg" alt="Navigation Drawer" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png2" ="Main Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png3" ="Navigation Drawer" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/4.jpg" alt="Add Notes" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png4" ="Add Notes" /></td>
 </tr>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/5.jpg" alt="Splash Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png5" ="Splash Screen" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/6.jpg" alt="Main Screen" /></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/7.jpg" alt="Navigation Drawer" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png6" ="Main Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png7" ="Navigation Drawer" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/8.jpg" alt="Add Notes" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png8" ="Add Notes" /></td>
 </tr>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/9.jpg" alt="Splash Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png9" ="Splash Screen" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/10.jpg" alt="Main Screen" /></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/11.jpg" alt="Navigation Drawer" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png10" ="Main Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png11" ="Navigation Drawer" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/12.jpg" alt="Add Notes" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png12" ="Add Notes" /></td>
 </tr>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/13.jpg" alt="Splash Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png13" ="Splash Screen" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/14.jpg" alt="Main Screen" /></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/15.jpg" alt="Navigation Drawer" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png14" ="Main Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png15" ="Navigation Drawer" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/16.jpg" alt="Add Notes" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png16" ="Add Notes" /></td>
 </tr>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/17.jpg" alt="Splash Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png17" ="Splash Screen" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/18.jpg" alt="Main Screen" /></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/master/gitimg/19.jpg" alt="Navigation Drawer" /></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png18" ="Main Screen" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png19" ="Navigation Drawer" /></td>
 
-//<td><img align="right" src="https://github.com/mithoo18/Internship/blob/master/gitimg/4.jpg" alt="Add Notes" /></td>
+//<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png4" ="Add Notes" /></td>
 </tr>
 </table>
 
-### Demo 
 
-- Link:- https://youtu.be/dnrLoNWtwTE
-- Link:- https://youtu.be/ausJkH9BZdw
 
 #### Developed with ❤ by @Devanshu || mithoo18.
-
