@@ -3,44 +3,42 @@
 ### How it looks 
 <table>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png1"/></td>
-
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png2" /></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png3" /></td>
-
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png4"/></td>
-</tr>
-<tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png5"/></td>
-
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png6"/></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png7"/></td>
-
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png8"/></td>
-</tr>
-<tr>
   <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png"/></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png10"/></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png11"/></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/2.png" /></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/3.png" /></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png12"/></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/4.png"/></td>
 </tr>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png13"/></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/5.png"/></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png14"/></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png15"/></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/6.png"/></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/7.png"/></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png16"/></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/8.png"/></td>
 </tr>
 <tr>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png17"/></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/9.png"/></td>
 
-<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png18"/></td>
-  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png19"/></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/10.png"/></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/11.png"/></td>
 
-//<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png4"/></td>
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/12.png"/></td>
+</tr>
+<tr>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/13.png"/></td>
+
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/14.png"/></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/15.png"/></td>
+
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/16.png"/></td>
+</tr>
+<tr>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/17.png"/></td>
+
+<td><img align="right" src="https://github.com/mithoo18/Internship/blob/main/gitimg/18.png"/></td>
+  <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/19.png"/></td>
 </tr>
 </table>
 
