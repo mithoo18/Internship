@@ -1,6 +1,22 @@
 ### Internship at Shri Ganesh Automobile
 
-### How it looks 
+- IncreaseBusinessLeads 50%
+- Increase Client Engagement40%
+- Edited 25+ Videos
+- Manual Manage Client Communication in 4 Channels
+- Wrote 100+ Quotation & Amendments
+
+### Developed Using 
+- HTML
+- CSS
+- WORDPRESS 
+
+### Work Done 
+- Design and Developed Company Website
+- Market Research Wrote Content 
+- Implemented Plugins and Features
+
+### How it looks <a href ="https://github.com/mithoo18/Internship/tree/main/gitimg">Images</a>
 <table>
 <tr>
   <td><img align="left" src="https://github.com/mithoo18/Internship/blob/main/gitimg/1.png"/></td>
